@@ -1,2 +1,9 @@
-# gateway-query
-网管查询
+<!-- 网关查询 -->
+
+git clone https://github.com/yafeicui/gateway-query.git;
+
+npm install;
+
+npm run dev;
+
+npm run build;

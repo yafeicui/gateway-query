@@ -1,0 +1,23 @@
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  .carousel-cont {
+    width: 80%;
+    white-space:nowrap;
+    // overflow: hidden;
+    // background: pink;
+    text-align: center;
+    .notice-box {
+      height: 64px;
+      line-height: 64px;
+      color: black;
+    }
+  }
+  .logout-button {
+    display: flex;
+    height: 100%;
+    justify-content: flex-end;
+    padding: 0 20px;
+    align-items: center;
+  }
+}
